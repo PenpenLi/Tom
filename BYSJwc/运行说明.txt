@@ -1,0 +1,5 @@
+运行的文件在
+
+runtime - > win32 -> PrebuiltRuntimeLua.exe
+
+如果有问题，请将整个整个文件放在英文目录下，中文文件夹易发生错误。
